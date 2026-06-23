@@ -1,0 +1,6 @@
+{
+  "name": "Nmahang Yar",
+  "description": "A Persian music and maddahi player that searches and streams tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
